@@ -1,3 +1,6 @@
 # GAM250-Assignment
 
-test
+GitHub for my Gam250 assignment
+
+#Score Testing project#
+
