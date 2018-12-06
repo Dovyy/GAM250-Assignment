@@ -1,0 +1,6 @@
+/Library
+/Packages
+/.vs/GAM250-Assignment/v15/*.suo
+/*.csproj
+/*.sln
+/obj/Debug
